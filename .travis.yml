@@ -3,7 +3,7 @@ node_js:
  — "12.18.3"
 branches:
  only:
- — master
+ — main
 before_script:
  — npm install -g ionic
  — npm ci 
@@ -15,5 +15,5 @@ deploy:
  github-token: $GITHUB_TOKEN 
  keep-history: true
  on:
-   branch: master
+   branch: main
  local_dir: www
