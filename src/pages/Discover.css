@@ -1,0 +1,21 @@
+.container {
+    margin-top: 2%;
+    padding : 3%;
+}
+
+.v {
+    margin-right: 2%;
+    border: solid 2px #eb445a;
+    border-radius: 12px;
+}
+
+.cover {
+    margin-bottom: -5%;
+    width: 128px;
+    height: 180px;
+}
+
+.chapter {
+    margin-top: -10%;
+    color: rgb(175, 175, 175);
+}
