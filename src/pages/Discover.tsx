@@ -31,7 +31,7 @@ const Discover: React.FC = () => {
                 </IonCol>
                 <IonCol>
                   <img src="/assets/images/cover-3.jpg" className="cover" />
-                  <p>Bakuman</p> 
+                  <p>Bakuman</p>
                   <p className="chapter">Up to Ch. 176</p>
                 </IonCol>
               </IonRow>
